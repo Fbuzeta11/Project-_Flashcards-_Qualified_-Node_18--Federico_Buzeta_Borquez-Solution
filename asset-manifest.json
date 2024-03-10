@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution/static/css/main.9e0f964b.css",
-    "main.js": "/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution/static/js/main.d5103144.js",
+    "main.js": "/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution/static/js/main.ceac06e7.js",
     "index.html": "/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution/index.html",
     "main.9e0f964b.css.map": "/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution/static/css/main.9e0f964b.css.map",
-    "main.d5103144.js.map": "/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution/static/js/main.d5103144.js.map"
+    "main.ceac06e7.js.map": "/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution/static/js/main.ceac06e7.js.map"
   },
   "entrypoints": [
     "static/css/main.9e0f964b.css",
-    "static/js/main.d5103144.js"
+    "static/js/main.ceac06e7.js"
   ]
 }
