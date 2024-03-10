@@ -1,7 +1,7 @@
 {
   "name": "flashcard",
   "version": "0.1.0",
-  "homepage": "https://fbuzeta11.github.io/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution/",
+  "homepage": "https://fbuzeta11.github.io/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
