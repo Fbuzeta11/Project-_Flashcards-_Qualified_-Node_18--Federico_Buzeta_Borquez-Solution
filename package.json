@@ -1,6 +1,7 @@
 {
   "name": "flashcard",
   "version": "0.1.0",
+  "homepage": "https://fbuzeta11.github.io/Project-_Flashcards-_Qualified_-Node_18--Federico_Buzeta_Borquez-Solution/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -14,6 +15,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "concurrently \"npm run start:server\" \"npm run start:react\"",
     "start:react": "react-scripts start",
     "start:server": "json-server ./data/db.json --port 8080",
@@ -41,6 +44,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.3.0",
+    "gh-pages": "^6.1.1",
     "json-server": "^0.16.1",
     "style-loader": "^3.3.4"
   }
