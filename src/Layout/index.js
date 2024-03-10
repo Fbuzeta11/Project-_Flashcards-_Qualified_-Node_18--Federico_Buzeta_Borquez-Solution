@@ -21,7 +21,7 @@ function Layout() {
           <Route path="/" element={<Home />}></Route>
           <Route path="/decks/new" element={<CreateDeck />}></Route>
           {/* <Route path="/decks/:deckId" element={<DeckRoutes />}></Route> */}
-          <Route path="/" element={<NotFound />}></Route>
+          {/* <Route path="/" element={<NotFound />}></Route> */}
           <Route path="/decks/:deckId" element={<DeckDetails />}></Route>
           <Route path="/decks/:deckId/study" element={<StudyDeck />}></Route>
           <Route path="/decks/:deckId/edit" element={<EditDeck />}></Route>
